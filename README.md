@@ -12,6 +12,7 @@
   <a href="README.zh-CN.md">中文</a> ·
   <a href="https://www.mogai.icu/immich-print/">Website</a> ·
   <a href="https://github.com/gebilaoman/Immich-Photo-Print/releases/latest">Download</a> ·
+  <a href="https://www.youtube.com/watch?v=2sivnlu2oh4">Video</a> ·
   <a href="https://demo.immich.app">Try on the Immich demo</a>
 </p>
 
@@ -25,6 +26,10 @@
 ![The print page: settings on the left, a full-size preview of each sheet on the right](docs/screenshots/en/print-page.jpg)
 
 Immich has no print button. Downloading each photo, opening it in another app and fixing the size every time gets old fast. This extension adds a **Print** button next to **Share** in Immich and opens a print page made for photos.
+
+## Demo video
+
+[![Watch the 1-minute demo on YouTube](docs/video.jpg)](https://www.youtube.com/watch?v=2sivnlu2oh4)
 
 ## Features
 

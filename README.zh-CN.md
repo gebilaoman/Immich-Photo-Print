@@ -12,6 +12,7 @@
   <a href="README.md">English</a> ·
   <a href="https://www.mogai.icu/immich-print/">产品页</a> ·
   <a href="https://github.com/gebilaoman/Immich-Photo-Print/releases/latest">下载</a> ·
+  <a href="https://www.youtube.com/watch?v=2sivnlu2oh4">演示视频</a> ·
   <a href="https://demo.immich.app">在 Immich 演示站试用</a>
 </p>
 
@@ -25,6 +26,10 @@
 ![打印页：左边是设置，右边是逐页的大预览](docs/screenshots/zh/print-page.jpg)
 
 Immich 没有打印按钮。每次都要先下载照片、换个软件打开、再调尺寸，很麻烦。这个插件在 Immich 的"分享"按钮旁边加一个**打印**按钮，点开就是专门为照片设计的打印页。
+
+## 演示视频
+
+[![在 YouTube 上观看 1 分钟演示（英文字幕）](docs/video.jpg)](https://www.youtube.com/watch?v=2sivnlu2oh4)
 
 ## 功能
 
