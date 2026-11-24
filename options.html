@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title data-i18n="optTitle">Immich Photo Print</title>
+    <link rel="stylesheet" href="options.css" />
+  </head>
+  <body>
+    <main>
+      <header>
+        <img src="icons/icon128.png" alt="" width="56" height="56" />
+        <div>
+          <h1 data-i18n="extName">Immich Photo Print</h1>
+          <p data-i18n="optIntro"></p>
+        </div>
+      </header>
+
+      <section>
+        <h2 data-i18n="optServers"></h2>
+        <form id="add">
+          <input id="url" type="url" required autocomplete="off" spellcheck="false" />
+          <button type="submit" data-i18n="optAdd"></button>
+        </form>
+        <p id="msg" role="status"></p>
+        <ul id="list"></ul>
+      </section>
+
+      <section>
+        <h2 data-i18n="optBuiltin"></h2>
+        <ul class="builtin">
+          <li><span>https://demo.immich.app</span><small data-i18n="optDemo"></small></li>
+          <li><span>http://localhost:2283</span></li>
+        </ul>
+      </section>
+
+      <section class="help">
+        <h2 data-i18n="optHowTitle"></h2>
+        <ol>
+          <li data-i18n="optHow1"></li>
+          <li data-i18n="optHow2"></li>
+          <li data-i18n="optHow3"></li>
+        </ol>
+      </section>
+    </main>
+    <script src="icons.js"></script>
+    <script src="options.js"></script>
+  </body>
+</html>

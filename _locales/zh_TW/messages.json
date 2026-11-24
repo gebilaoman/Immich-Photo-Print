@@ -1,0 +1,66 @@
+{
+  "extName": {
+    "message": "Immich 相片列印"
+  },
+  "extDescription": {
+    "message": "從 Immich 列印相片：5 吋、6 吋、7 吋或 A4，可選版面、白邊和日期。"
+  },
+  "optIntro": {
+    "message": "在 Immich 網頁上加入列印按鈕。"
+  },
+  "optServers": {
+    "message": "你的 Immich 伺服器"
+  },
+  "optPlaceholder": {
+    "message": "例如 http://192.168.1.10:2283 或 https://photos.example.com"
+  },
+  "optAdd": {
+    "message": "新增"
+  },
+  "optRemove": {
+    "message": "移除"
+  },
+  "optNone": {
+    "message": "尚未新增伺服器。"
+  },
+  "optInvalid": {
+    "message": "請輸入以 http:// 或 https:// 開頭的有效位址。"
+  },
+  "optDenied": {
+    "message": "未取得存取權限，未新增。"
+  },
+  "optAdded": {
+    "message": "已新增 $ORIGIN$。開啟或重新整理 Immich 頁面即可看到列印按鈕。",
+    "placeholders": {
+      "origin": {
+        "content": "$1"
+      }
+    }
+  },
+  "optRemoved": {
+    "message": "已移除 $ORIGIN$。",
+    "placeholders": {
+      "origin": {
+        "content": "$1"
+      }
+    }
+  },
+  "optBuiltin": {
+    "message": "一律啟用"
+  },
+  "optDemo": {
+    "message": "Immich 官方展示站"
+  },
+  "optHowTitle": {
+    "message": "使用方式"
+  },
+  "optHow1": {
+    "message": "新增你在瀏覽器中開啟 Immich 所用的位址，然後允許存取。"
+  },
+  "optHow2": {
+    "message": "在 Immich 中選取相片（或開啟一張大圖），「分享」左邊會出現列印按鈕。"
+  },
+  "optHow3": {
+    "message": "選擇紙張、版面和日期等設定，點「列印」。"
+  }
+}

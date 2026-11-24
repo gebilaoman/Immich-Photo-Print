@@ -1,0 +1,66 @@
+{
+  "extName": {
+    "message": "Immich 照片打印"
+  },
+  "extDescription": {
+    "message": "从 Immich 打印照片：5 寸、6 寸、7 寸或 A4，可选版面、白边和日期。"
+  },
+  "optIntro": {
+    "message": "在 Immich 网页上增加打印按钮。"
+  },
+  "optServers": {
+    "message": "你的 Immich 服务器"
+  },
+  "optPlaceholder": {
+    "message": "例如 http://192.168.1.10:2283 或 https://photos.example.com"
+  },
+  "optAdd": {
+    "message": "添加"
+  },
+  "optRemove": {
+    "message": "移除"
+  },
+  "optNone": {
+    "message": "还没有添加服务器。"
+  },
+  "optInvalid": {
+    "message": "请输入以 http:// 或 https:// 开头的有效地址。"
+  },
+  "optDenied": {
+    "message": "没有获得访问权限，未添加。"
+  },
+  "optAdded": {
+    "message": "已添加 $ORIGIN$。打开或刷新 Immich 页面即可看到打印按钮。",
+    "placeholders": {
+      "origin": {
+        "content": "$1"
+      }
+    }
+  },
+  "optRemoved": {
+    "message": "已移除 $ORIGIN$。",
+    "placeholders": {
+      "origin": {
+        "content": "$1"
+      }
+    }
+  },
+  "optBuiltin": {
+    "message": "始终启用"
+  },
+  "optDemo": {
+    "message": "Immich 官方演示站"
+  },
+  "optHowTitle": {
+    "message": "使用方法"
+  },
+  "optHow1": {
+    "message": "添加你在浏览器里打开 Immich 用的地址，然后允许访问。"
+  },
+  "optHow2": {
+    "message": "在 Immich 里选中照片（或打开一张大图），\"分享\"左边会出现打印按钮。"
+  },
+  "optHow3": {
+    "message": "选择纸张、版面和日期等设置，点\"打印\"。"
+  }
+}
